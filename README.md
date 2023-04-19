@@ -6,6 +6,9 @@ The NASA Earth eXchange-Global Daily Downscaled Projections-Fire Weather Index (
 Here are brief explanations for the python codes:
 
 FWIfunctions.py: This python code has all sub-component functions used in the CFWIS framework.
+
 calFireIndex.py: This python code is a main code reading input NEX-GDDP data and compute sub-components of the CFWIS framework.
+
 get_MME_FWI_Monthly_release.py: This python code is for summarizing daily fire weather indices of individual GCM to multi-model ensemble at monthly time step 
+
 get_MME_FWI_Yearly_release.py: This python code is for summarizing daily fire weather indices of individual GCM to multi-model ensemble at yearly time step 
