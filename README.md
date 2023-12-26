@@ -12,6 +12,6 @@ calFireIndex.py: This python code is a main code reading input NEX-GDDP data and
 
 calFireIndex_baseline.py: This python code is a code reading input NEX-GDDP data and compute sub-components of the CFWIS framework to produce historical baseline data.
 
-get_MME_FWI_Monthly_release.py: This python code is for summarizing daily fire weather indices of individual GCM to multi-model ensemble at monthly time step 
+get_MME_FWI_Monthly_release.py: This python code is for summarizing daily fire weather indices of individual ESM to multi-model ensemble at monthly time step 
 
-get_MME_FWI_Yearly_release.py: This python code is for summarizing daily fire weather indices of individual GCM to multi-model ensemble at yearly time step 
+get_MME_FWI_Yearly_release.py: This python code is for summarizing daily fire weather indices of individual ESM to multi-model ensemble at yearly time step 
